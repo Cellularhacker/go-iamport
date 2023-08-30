@@ -8,5 +8,5 @@ require (
 	github.com/iamport/interface v0.0.15-0.20210804063853-dafb6ede3aa1
 	github.com/stretchr/testify v1.6.1
 	google.golang.org/protobuf v1.26.0
-	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
